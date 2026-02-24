@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Online Course Management</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Online Course Management</h1>
+
+        <!-- Add Course Form -->
+        <div class="form-card">
+    <h2 id="formTitle">Add Course</h2>
+
+    <input type="hidden" id="courseId">
+
+    <input type="text" id="name" placeholder="Course Name">
+    <input type="text" id="duration" placeholder="Duration">
+    <input type="number" id="price" placeholder="Price">
+    <input type="datetime-local" id="startDateTime">
+    <textarea id="description" placeholder="Description"></textarea>
+
+    <button id="submitBtn" onclick="saveCourse()">Add Course</button>
+</div>
+
+<div id="toast" class="toast"></div>
+        
+
+        <hr>
+
+        <!-- Course List -->
+        <h2>All Courses</h2>
+        <div id="courseList" class="course-list"></div>
+    </div>
+
+<script src="script.js"></script>
+</body>
+</html>
