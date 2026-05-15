@@ -34,7 +34,5 @@ public class OnlineCourse
 	private String description;
 	
 	private LocalDateTime startDate;
-	
-	
 
 }
