@@ -18,5 +18,4 @@ public class GlobalExceptionHandler
 	{
 		return ResponseEntity.status(HttpStatus.INTERNAL_SERVER_ERROR).body("Internal Server Error: " + exception.getMessage());
 	}
-
 }
