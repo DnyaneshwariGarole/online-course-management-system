@@ -1,5 +1,6 @@
 # Online Course Management System
 
+---
 ## 📌 Project Overview
 This is a full-stack Online Course Management System built using Spring Boot and REST APIs.  
 The application allows users to create, update, retrieve and delete online course data.
