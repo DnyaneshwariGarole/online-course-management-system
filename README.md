@@ -4,6 +4,7 @@
 This is a full-stack Online Course Management System built using Spring Boot and REST APIs.  
 The application allows users to create, update, retrieve and delete online course data.
 
+---
 ## 🚀 Tech Stack
 - Java
 - Spring Boot
@@ -14,6 +15,7 @@ The application allows users to create, update, retrieve and delete online cours
 - Swagger (API Testing)
 - HTML, CSS, JavaScript (Frontend)
 
+---
 ## ⚙️ Features
 - Create Course
 - Update Course
@@ -27,6 +29,7 @@ The application allows users to create, update, retrieve and delete online cours
 ## 🧩 Project Architecture
 Controller → Service → Repository → Database
 
+---
 ## ▶️ How To Run
 1. Clone the repository
 2. Configure PostgreSQL database in application.properties
@@ -34,5 +37,6 @@ Controller → Service → Repository → Database
 4. Open: http://localhost:8080
 5. Swagger URL: http://localhost:8080/swagger-ui.html
 
+---
 ## 📂 GitHub Repository
 https://github.com/DnyaneshwariGarole/online-course-management-system
