@@ -1,6 +1,5 @@
 # Online Course Management System
 
----
 ## 📌 Project Overview
 This is a full-stack Online Course Management System built using Spring Boot and REST APIs.  
 The application allows users to create, update, retrieve and delete online course data.
@@ -15,8 +14,8 @@ The application allows users to create, update, retrieve and delete online cours
 - REST APIs
 - Swagger (API Testing)
 - HTML, CSS, JavaScript (Frontend)
-
 ---
+
 ## ⚙️ Features
 - Create Course
 - Update Course
@@ -27,6 +26,7 @@ The application allows users to create, update, retrieve and delete online cours
 - DTO & Mapper Layer
 - Layered Architecture
 
+---
 ## 🧩 Project Architecture
 Controller → Service → Repository → Database
 
