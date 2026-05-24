@@ -13,7 +13,7 @@ The application allows users to create, update, retrieve and delete online cours
 - MySQL
 - REST APIs
 - Swagger (API Testing)
-- HTML, CSS, JavaScript (Frontend)
+- HTML, CSS, JavaScript(Frontend)
 ---
 
 ## ⚙️ Features
